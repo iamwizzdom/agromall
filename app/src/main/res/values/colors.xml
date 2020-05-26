@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#008738</color>
+    <color name="colorAccentLight">#F2FAF5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPrimaryShadow">#501e88e5</color>
+    <color name="colorPrimaryLight">#ffffff</color>
+    <color name="colorGrayLightExtra">#cdd9ec</color>
+
+
+    <color name="dangerBackground">#f66e84</color>
+    <color name="dangerBorder">#f55f78</color>
+    <color name="dangerColor">#ffffff</color>
+    <color name="table_head_color">#039E43</color>
+
+    <color name="card_title_color">#99abb4</color>
+    <color name="card_number_color">#455a64</color>
+    <color name="colorButton">#1e88e5</color>
+    <color name="colorFragment">#eef5f9</color>
+    <color name="colorGray">#787e89</color>
+    <color name="colorGrayLight">#9ea7b6</color>
+    <color name="colorGrayDark">#555961</color>
+    <color name="colorTransparent">#0000ffff</color>
+</resources>

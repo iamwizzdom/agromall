@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">AgroMall</string>
+    <string name="action_logout">Logout</string>
+    <string name="app_logo">App logo</string>
+    <string name="demo">Demo</string>
+    <string name="spinner_image">spinner image</string>
+    <string name="error_invalid_email">Enter a valid email</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_farmers">Farmers</string>
+    <string name="menu_farms">Farms</string>
+    <string name="menu_farmer">Farmer</string>
+    <string name="menu_farm">Farm</string>
+    <string name="menu_add_farmer">Add Farmer</string>
+    <string name="menu_add_farm">Add Farm</string>
+    <string name="menu_logout">Logout</string>
+    <string name="no_record_found_at_this_time">No record found at this time.</string>
+    <string name="image">Image</string>
+    <string name="farmer_name">Farmer name</string>
+    <string name="farmer_email">Farmer email</string>
+    <string name="farmer_phone">Farmer phone</string>
+    <string name="view">View</string>
+    <string name="upload_button">Upload button</string>
+    <string name="first_name">First name</string>
+    <string name="middle_name">Middle name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="error_invalid_firstname">First name too short</string>
+    <string name="error_invalid_middlename">Middle name too short</string>
+    <string name="error_invalid_lastname">Last name too short</string>
+    <string name="error_invalid_phone">Enter a valid phone number</string>
+    <string name="error_invalid_address">Enter a valid address</string>
+    <string name="error_invalid_farm_name">Farm name too short</string>
+    <string name="error_invalid_farm_location">Farm location too short</string>
+    <string name="error_invalid_coordinates">Enter valid coordinates</string>
+    <string name="cover_photo">Cover photo</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_button">Action Button</string>
+    <string name="view_farms">View Farms</string>
+    <string name="farm_name">Farm name</string>
+    <string name="farm_location">Farm location</string>
+    <string name="farm_coordinates_latitude_longitude">Farm coordinates (latitude, longitude)</string>
+    <string name="retrieve_automatically">Retrieve automatically</string>
+    <string name="edit_farm">Edit Farm</string>
+    <string name="delete">Delete</string>
+    <string name="custom_dialog_title">Custom Dialog Title</string>
+    <string name="custom_dialog_message">Custom dialog message</string>
+    <string name="positive">Positive</string>
+    <string name="negative">Negative</string>
+    <string name="neutral">Neutral</string>
+    <string name="number_placeholder">10000</string>
+    <string name="total_farmers">Total Farmers</string>
+    <string name="total_farms">Total Farms</string>
+    <string name="recent_farmers">Recent Farmers</string>
+    <string name="hash">#</string>
+    <string name="name">Name</string>
+    <string name="view_all">View all</string>
+    <string name="recent_farms">Recent Farms</string>
+    <string name="owner">Owner</string>
+    <string name="location">Location</string>
+    <string name="phone">Phone</string>
+
+    <string-array name="genderType">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
