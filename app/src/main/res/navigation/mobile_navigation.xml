@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_dashboard">
+
+    <fragment
+        android:id="@+id/nav_dashboard"
+        android:name="com.agromall.agromall.fragment.dashboad.DashboardFragment"
+        android:label="@string/menu_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/nav_farmers"
+        android:name="com.agromall.agromall.fragment.farmer.FarmersFragment"
+        android:label="@string/menu_farmers"
+        tools:layout="@layout/fragment_farmer_item_list" />
+
+    <fragment
+        android:id="@+id/nav_farmer"
+        android:name="com.agromall.agromall.fragment.farmer.FarmerFragment"
+        android:label="@string/menu_farmer"
+        tools:layout="@layout/fragment_farmer" />
+
+    <fragment
+        android:id="@+id/nav_add_farmer"
+        android:name="com.agromall.agromall.fragment.farmer.AddFarmerFragment"
+        android:label="@string/menu_add_farmer"
+        tools:layout="@layout/fragment_add_farmer" />
+
+    <fragment
+        android:id="@+id/nav_farms"
+        android:name="com.agromall.agromall.fragment.farms.FarmsFragment"
+        android:label="@string/menu_farms"
+        tools:layout="@layout/fragment_farm_item_list" />
+
+    <fragment
+        android:id="@+id/nav_farm"
+        android:name="com.agromall.agromall.fragment.farms.FarmFragment"
+        android:label="@string/menu_farm"
+        tools:layout="@layout/fragment_farm" />
+
+    <fragment
+        android:id="@+id/nav_add_farm"
+        android:name="com.agromall.agromall.fragment.farms.AddFarmFragment"
+        android:label="@string/menu_add_farm"
+        tools:layout="@layout/fragment_add_farm" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.agromall.agromall.fragment.logout.LogoutFragment"
+        android:label="@string/menu_logout" />
+
+</navigation>
